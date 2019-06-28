@@ -1,0 +1,337 @@
+[
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561723614570,
+            "changeTime": 1561723614570,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561723636664,
+            "changeTime": 1561723636664,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561728945139,
+            "changeTime": 1561728945139,
+            "contentHash": "9fa07b8d08732e57f593e6a5186911e7e199ff55"
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561723678988,
+            "changeTime": 1561723679157,
+            "contentHash": "7756f06b50a9310d8356583a86bfb4271dd0158f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561723678968,
+            "changeTime": 1561723679181,
+            "contentHash": "e512e19217572b795009ea3b274186955ac8ac47",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp",
+            "isDirectory": false,
+            "size": 1229,
+            "modifiedTime": 1561710118541,
+            "changeTime": 1561710118541,
+            "contentHash": "09357cb46543defb28760231437abbb4f568b5a5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1561710118647,
+            "changeTime": 1561710118647,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.css",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.css",
+            "isDirectory": false,
+            "size": 853,
+            "modifiedTime": 1561710118370,
+            "changeTime": 1561710118370,
+            "contentHash": "dd8b20a2926e8de1c29cc3028ab71670e37cbc0d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselController.js",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselController.js",
+            "isDirectory": false,
+            "size": 517,
+            "modifiedTime": 1561710118302,
+            "changeTime": 1561710118302,
+            "contentHash": "01792be5934e9e4d8c66a64140ff35564cc6bf9a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselHelper.js",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselHelper.js",
+            "isDirectory": false,
+            "size": 181,
+            "modifiedTime": 1561710118481,
+            "changeTime": 1561710118481,
+            "contentHash": "1c4a18f198a2275b29a9aa497ff37ad2955fc1d9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselRenderer.js",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselRenderer.js",
+            "isDirectory": false,
+            "size": 135,
+            "modifiedTime": 1561710118596,
+            "changeTime": 1561710118596,
+            "contentHash": "7cc8ab34ad310f4dc5ebd9c20ef346d11856fad0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561723679102,
+            "changeTime": 1561723679188,
+            "contentHash": "1a77c22952262d9a7136cacd8d20946947d73688",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.cmp",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.cmp",
+            "isDirectory": false,
+            "size": 1306,
+            "modifiedTime": 1561710119153,
+            "changeTime": 1561710119153,
+            "contentHash": "567cc2020205b0d937486e01bebc974c8ab36262",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1561710119282,
+            "changeTime": 1561710119282,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.css",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.css",
+            "isDirectory": false,
+            "size": 302,
+            "modifiedTime": 1561710118867,
+            "changeTime": 1561710118867,
+            "contentHash": "05dd0f605a10bcbc4b41797bd3723a8040aa2461",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.design",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.design",
+            "isDirectory": false,
+            "size": 156,
+            "modifiedTime": 1561710119207,
+            "changeTime": 1561710119207,
+            "contentHash": "64a39a0af6c29671af3f39a83fb623436f9333ce",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.svg",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.svg",
+            "isDirectory": false,
+            "size": 1800,
+            "modifiedTime": 1561710119082,
+            "changeTime": 1561710119082,
+            "contentHash": "acc4118104f5a53bb25a6a5a9bbb36b65e2417c7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCardController.js",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCardController.js",
+            "isDirectory": false,
+            "size": 551,
+            "modifiedTime": 1561710118725,
+            "changeTime": 1561710118725,
+            "contentHash": "686b9fbdd992437ce1496b703fdbc62251506602",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria",
+        {
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561723530551,
+            "changeTime": 1561723530551,
+            "contentHash": "bf3bd632254f4d9ad9eea875562aec9c5fe77f6d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6543,
+            "modifiedTime": 1561728945126,
+            "changeTime": 1561728945126,
+            "contentHash": "a7fdc40d262b670e5ddbb7321b030395de1e49c4"
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 26462,
+            "modifiedTime": 1561728945152,
+            "changeTime": 1561728945152,
+            "contentHash": "d40b4824aee999e355cd2f3129eb09fd9b77ec7b"
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561728945125,
+            "changeTime": 1561728945125,
+            "contentHash": "acc0f4dec1501866f499d4febcd7a93e2add31d7"
+        }
+    ],
+    [
+        "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdc\\VS Code Project Location\\sfdx-maria\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561728945151,
+            "changeTime": 1561728945151,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ]
+]
